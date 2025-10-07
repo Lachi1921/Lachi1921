@@ -1,4 +1,7 @@
-# Hi, I'm Lachi
+# About me
+
+
+## Hi, I'm Lachi
 
 I am a 17-year-old self-taught full-stack developer. I have been coding since I was 15-16. I build full-stack web applications independently and enjoy solving complex problems. My focus is on performance, scalability, and creating user-centered solutions. I am also passionate about AI and natural language processing (NLP) and exploring ways to integrate them into real-time applications.
 
