@@ -3,23 +3,21 @@
 
 ## Hi, I'm Lachi
 
-I am a 17-year-old self-taught full-stack developer. I have been coding since I was 15-16. I build full-stack web applications independently and enjoy solving complex problems. My focus is on performance, scalability, and creating user-centered solutions. I am also passionate about AI and natural language processing (NLP) and exploring ways to integrate them into real-time applications.
+I am a 17-year-old self-taught full-stack developer. I have been coding since I was 15-16. I build full-stack web applications independently and enjoy solving complex problems. My focus is on performance, scalability, and building reliable projects. I aim to keep growing as a developer. I"m also passionate about AI and NLP. I use them to solve problems and improve build applications while also saving time and energy... btw, don't rely on AI too much it'll just make you spend extra days fixing its so-called "magic"!
 
 
 ## Background & Interests
 
-I started programming on my own and have learned Python, JavaScript, and TypeScript. I enjoy exploring **modern web frameworks** and building complete solutions from frontend to backend. I am particularly interested in AI/NLP, real-time apps, and secure, scalable API development. I aim to strengthen my **critical thinking and problem-solving skills** through hands-on projects.
-
+I began programming independently and learned Python, JavaScript, and TypeScript. I enjoy working with modern web frameworks and building complete applications across the frontend and backend. My interests include AI, NLP, making real-time and interactive web applications and UI/UX design. I believe in strengthening my critical thinking and problem-solving skills through practical, hands-on projects.
 
 ## Skills
 
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frontend:** React.js, Next.js, React Native  
-- **Backend:** Django, Django REST Framework (DRF), Flask, FastAPI, Node.js, Express.js  
-- **APIs & Real-time:** REST APIs (standard way for apps to communicate), WebSockets (real-time client-server communication)  
-- **Databases:** PostgreSQL, MongoDB  
-- **AI / NLP:** Hugging Face models like facebook/bart-large-cnn, GPT-2, Mistral  
-- **Tools & Practices:** Git, JWT Authentication (secure user verification)  
+Languages: Python, JavaScript, TypeScript
+Frontend: React, Next.js, React Native
+Backend: Django, Flask, FastAPI, Node.js, Express
+APIs: REST, FAST
+Databases: PostgreSQL, MongoDB, MySql
+AI / NLP: Hugging Face, GPT, Gemini, Mistral
 
 
 ## Projects
