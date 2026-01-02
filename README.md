@@ -11,7 +11,7 @@ Working and building projects is how I learn best and have been learning, It rea
 
 ## Tech stack
 - Languages: Python, JavaScript, TypeScript  
-- Frontend: React, Next.js, HTML/CSS  
+- Frontend: React, Next.js, HTML/CSS, Tailwind, Shadcn
 - Backend: Django, Flask, FastAPI, Node.js, Express
 
 ## Projects
