@@ -4,7 +4,7 @@ I'm an 18 year old, an AI & automation enthusiast and a full-stack developer. I 
 
 I've built multiple real-world projects, including an AI-powered job board, an AI-powered PDF analyzer, a real-time chat application, and a food business platform with automated invoicing and SMS. I'm open to learning any new technologies, and I love solving complex problems and creating my own projects. I've worked with TypeScript, Python, JavaScript, and other frameworks.
 
-Working on and building projects is how I learn and improve the best. It helps think critically and improves problem-solving skills. I'm really excited about growing into a role that combines programming with AI automation.
+Working on, building projects, and solving problems is how I learn and improve the best. It helps think critically and improves problem-solving skills. I'm really excited about growing into a role that combines programming with AI automation.
 
 ## Projects
 
